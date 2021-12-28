@@ -10,6 +10,7 @@ public class ExceptionHandling {
         int index = s.nextInt();
 //         arthematic exception
         try {
+            
             System.out.println(a / b);
             System.out.println(arr[index]);
         }// we can use finallly block for resorces clean up operztion perform
