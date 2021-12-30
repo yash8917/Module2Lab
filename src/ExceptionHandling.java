@@ -26,6 +26,7 @@ public class ExceptionHandling {
 //        catch(ArithmeticException | ArrayIndexOutOfBoundsException | IllegalAccessException){
 //
 //        }
+        
 
     }
 }
