@@ -8,6 +8,7 @@ public class ExceptionHandling {
         int b = s.nextInt();
         int arr[] = {12, 21, 34, 54, 45};
         int index = s.nextInt();
+        
 //         arthematic exception
         try {
             
